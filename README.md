@@ -1,12 +1,12 @@
 
-<center> 
+
 ## UNIDAD 1 
-</center>
+
 
 <div style="text-align: justify">
 
 
-## INTRODUCCIÓN
+*INTRODUCCIÓN*
 
 **Objetivo: Conocer la naturaleza, definición y elementos que constituyen
 un proceso de decisión.**
