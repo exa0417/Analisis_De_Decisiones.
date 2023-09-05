@@ -200,7 +200,7 @@ de decisión
 |$\theta$~3~ = 200|1,500|6,000|4,500|
 
 
-### 1.6 Dominació
+### 1.6 Dominación
 
 Una acción está dominada por otra, si los resultados de
 su implementación son al menos tan. deseables como los resultados de
