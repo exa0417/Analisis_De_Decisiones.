@@ -1,17 +1,4 @@
----
-title: "" 
-author: "Alexander Fuentes Hernandez"
-date: "2023-08-20"
-output: html_document
-editor_options: 
-  markdown: 
-    wrap: 72
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-
-```
 <center> 
 # UNIDAD 1 
 </center>
